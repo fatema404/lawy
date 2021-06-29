@@ -1,0 +1,200 @@
+
+@media(min-width:1024px) and (max-width:1440px){
+    .f-icon {
+        margin-right: 65px;
+    }
+    .languges p {
+        font-size: 12px;
+    }
+    .languges h2 {
+        font-size: 21px;
+    }
+    .languges {
+        margin-right: 53px;
+        margin-left: 55px;
+    }
+    .heading {
+        margin-left: 41px;
+    }
+    .heading h1 {
+        font-size: 32px;
+    }
+    .who-we-are p {
+        margin-left: 41px;
+        font-size: 14px;
+    }
+    .what-we-do{
+        background-size: 600px;
+    }
+    .image {
+        margin-left: 24px;
+    }
+    .title h1 {
+        font-size: 25px;
+    }
+    .arrow-icon{
+        font-size: 25px;
+    }
+}
+@media(min-width:992px) and (max-width:1023px){
+
+}
+@media(min-width:768px) and (max-width:991px){
+    .who-we-are p {
+        font-size: 12px;
+    }
+    .heading {
+        margin-top: -17px;
+    }
+    .what-we-do{
+        background-size: 500px;
+    }
+    .languges h2 {
+        font-size: 21px;
+    }
+    .languges p {
+        font-size: 13px;
+    }
+    .title h1 {
+        font-size: 19px;
+    }
+    .image:hover .arrow-icon {
+        font-size: 21px;
+    }
+   
+}
+@media(min-width:0px) and (max-width:768px){
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+}
+@media(min-width:576px) and (max-width:767px){
+   
+}
+@media(min-width:425px) and (max-width:575px){
+    .banner {
+        margin-top: 30px;
+    }
+    .who-we-are {
+        padding: 0px 18px;
+        text-align: center;
+    }
+    .heading {
+        margin-top: -45px;
+    }
+    .text-end {
+        margin-bottom: -46px;
+        margin-left: -60px;
+    }
+    .image {
+        width: 360px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .image {
+        margin-left: 107px;
+        margin-bottom: 30px;
+        width: 350px;
+    }
+    .what-we-do {
+        background-size: 2059px;
+    }
+    .heading-three {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .img-one {
+        margin-top: 15px;
+        margin-bottom: 1px;
+    }
+    .footer {
+        height: 86px;
+    }
+    .f-icon {
+        margin-top: -30px;
+        margin-left: 75px;
+        text-align: center;
+    }
+    .languges {
+        text-align: center;
+        padding: 5px 40px;
+    }
+    .languges h6 {
+        margin-bottom: 40px;
+    }
+}
+@media(width:425px){
+    .text-end {
+        margin-left: 1px;
+    }
+   
+    .image {
+        margin-left: 26px;
+    }
+    .f-icon {
+        margin-top: -18px;
+        margin-left: -36px;
+    }
+    .footer {
+        height: 110px;
+    }
+}
+@media(min-width:375px) and (max-width:424px){
+    .heading {
+        margin-top: -45px;
+    }
+    .text-end {
+        margin-bottom: -46px;
+        text-align: center;
+    }
+    .languges {
+        text-align: center;
+    }
+    
+    
+}
+@media(min-width:320px) and (max-width:375px){
+    .f-icon {
+        margin-top: -15px;
+    }
+    .footer {
+        height: 110px;
+    }
+}
+@media(min-width:0px) and (max-width:375px){
+    .heading {
+        margin-top: -45px;
+        text-align: center;
+    }
+    .languges {
+        text-align: center;
+    }
+    .footer {
+        height: 86px;
+    }
+    .f-icon {
+        margin-top: -30px;
+        margin-left: -29px;
+        text-align: center;
+    }
+    .languges h6 {
+        margin-bottom: 30px;
+    }
+    .image {
+        margin-left: 20px;
+        margin-bottom: 30px;
+    }
+    .who-we-are p {
+        text-align: center;
+    }
+    .f-icon {
+        margin-top: -15px;
+    }
+    .footer {
+        height: 110px;
+    }
+    
+}
+@media(min-width:0px) and (max-width:320px){
+
+}
